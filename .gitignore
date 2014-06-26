@@ -13,6 +13,7 @@
 .dat*
 .repl_history
 build/
+vendor/bundle/
 
 ## Documentation cache and generated files:
 /.yardoc/
